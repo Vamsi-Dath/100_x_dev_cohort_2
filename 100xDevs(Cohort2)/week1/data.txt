@@ -1,0 +1,7 @@
+[
+    "Apple", "Banana", "Orange", "Strawberry", "Grapes", "Watermelon", "Pineapple", "Mango", "Blueberry", "Raspberry",
+    "Tomato", "Potato", "Carrot", "Broccoli", "Spinach", "Lettuce", "Cucumber", "Pepper", "Onion", "Garlic",
+    "Chicken", "Beef", "Pork", "Fish", "Shrimp", "Lobster", "Crab", "Turkey", "Duck", "Lamb",
+    "Bread", "Rice", "Pasta", "Pizza", "Burger", "Sandwich", "Salad", "Soup", "Stew", "Curry",
+    "Cheese", "Milk", "Yogurt", "Butter", "Cream", "Ice Cream", "Chocolate", "Candy", "Cake", "Pie"
+]
